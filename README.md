@@ -1,4 +1,4 @@
-# Creating a GitHub README.md file for the Indian ₹500 Note Interactive Animation project
+# Indian ₹500 Note Interactive Animation project 
 
 # Indian ₹500 Note Interactive Animation 💵
 

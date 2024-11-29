@@ -1,6 +1,7 @@
-# Indian ₹500 Note Interactive Animation project 
+# Indian ₹500 Note Interactive Animation 💵 
 
-# Indian ₹500 Note Interactive Animation 💵
+## 🌐 Live Demo
+[Click here to see the project in action!](https://bppatkar.github.io/500Rs_note/)
 
 An interactive 3D animation of the Indian ₹500 note built with JavaScript, HTML, and CSS. This project demonstrates dynamic rotation of the note based on mouse movements or touch gestures, creating an engaging experience for users on desktop and mobile devices.
 

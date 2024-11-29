@@ -1,6 +1,5 @@
 # Creating a GitHub README.md file for the Indian ₹500 Note Interactive Animation project
 
-github_readme_content = """
 # Indian ₹500 Note Interactive Animation 💵
 
 An interactive 3D animation of the Indian ₹500 note built with JavaScript, HTML, and CSS. This project demonstrates dynamic rotation of the note based on mouse movements or touch gestures, creating an engaging experience for users on desktop and mobile devices.
